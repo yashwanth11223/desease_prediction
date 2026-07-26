@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "722768547789",
+    "project_id": "live-health-monitoring-5df85",
+    "storage_bucket": "live-health-monitoring-5df85.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:722768547789:android:c93ffc785bac85f3a7fe84",
+        "android_client_info": {
+          "package_name": "com.example.healthapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBAb4WpkXkzLYSJZ_RjpN-vitIR3NjroFQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
